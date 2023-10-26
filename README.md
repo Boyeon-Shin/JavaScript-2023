@@ -1,1 +1,1 @@
-# JavaSaript-2023
+# JavaScript-2023
